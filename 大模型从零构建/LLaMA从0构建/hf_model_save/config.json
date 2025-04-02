@@ -1,0 +1,1 @@
+{"batch_size": 32, "context_window": 16, "vocab_size": 4325, "d_model": 128, "epochs": 1000, "log_interval": 10, "n_heads": 8, "n_layers": 4}
