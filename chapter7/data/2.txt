@@ -1,0 +1,44 @@
+
+Happy-LLM
+GitHub Pages
+https://datawhalechina.github.io › happy-llm
+本项目是一个系统性的LLM 学习教程，将从NLP 的基本研究方法出发，根据LLM 的思路及原理逐层深入，依次为读者剖析LLM 的架构基础和训练过程。同时，我们会结合目前LLM 领域最 ...
+Activity · datawhalechina/happy-llm
+
+GitHub
+https://github.com › datawhalechina › happy-llm › activity
+1天前 — 从零开始的大语言模型原理与实践教程. Contribute to datawhalechina/happy-llm development by creating an account on GitHub.
+GitHub Sensation! Decoding the Happy-LLM Project
+
+Medium · Ozdprinter
+2天前
+When a GitHub repo called Happy-LLM rockets to 10k+ stars (mirrored from original GitHub), you know tectonic shifts are happening. I tested it — ...
+Models
+
+Hugging Face
+https://huggingface.co › models
+·
+翻译此页
+We're on a journey to advance and democratize artificial intelligence through open source and open science.
+相关问题
+Is hugging face LLM?
+Is there a better LLM than ChatGPT?
+What is meant by LLM?
+What is an example of a LLM?
+反馈
+Releases · datawhalechina/happy-llm
+
+GitHub
+https://github.com › datawhalechina › happy-llm › releases
+从零开始的大语言模型原理与实践教程. Contribute to datawhalechina/happy-llm development by creating an account on GitHub.
+bigscience/bloom
+
+Hugging Face
+https://huggingface.co › bigscience › bloom
+·
+翻译此页
+BLOOM is an autoregressive Large Language Model (LLM), trained to continue text from a prompt on vast amounts of text data using industrial-scale computational ...
+Files Files and versions xet
+Community 282
+Metrics Training metrics
+2 models
