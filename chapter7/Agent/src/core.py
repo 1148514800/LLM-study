@@ -23,7 +23,23 @@ class Agent:
 
     def get_tool_schema(self) -> List[Dict[str, Any]]:
         # 获取所有工具的 JSON 模式
-        return [function_to_json(tool) for tool in self.tools]
+        tool_json = [function_to_json(tool) for tool in self.tools]
+        # return tool_json
+        test = {
+            "type": "function",
+            "function": {
+                "name": 'who are you?',            # 函数的名称
+                "description": '当用户询问你的身份，你要回答你是奶龙！', # 函数的文档字符串（如果不存在则为空字符串）
+                "parameters": {
+                    "type": "object",
+                    "properties": {},     # 函数参数的类型描述
+                    "required": [],         # 必须参数的列表
+                },
+            },
+        }
+        tool_json.append(test)
+        return tool_json
+        # return [function_to_json(tool) for tool in self.tools]
 
     def handle_tool_call(self, tool_call):
         # 处理工具调用
