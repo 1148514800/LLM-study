@@ -19,11 +19,11 @@ class agent:
         self.local_tools = local_tools
         self.tool_show = tool_show
         self.openai_client = OpenAI(
-            api_key="sk-jthfgsvomtshbuvlswlbajmnxzwfxvvhbmlfqoggdsvreuez",  # 使用安全方式加载建议放在 env 里
+            api_key="",  # 使用安全方式加载建议放在 env 里
             base_url="https://api.siliconflow.cn/v1",
         )
         # self.openai_client = OpenAI(
-        #     api_key="sk-Lq3vLuVpw1fTfYUVeo6w5j3MIfRzl0pgHySNjYiPUnuDZxYE",  # 使用安全方式加载建议放在 env 里
+        #     api_key="",  # 使用安全方式加载建议放在 env 里
         #     base_url="https://api.gptgod.online/v1/",
         # )
         self.messages = [{
