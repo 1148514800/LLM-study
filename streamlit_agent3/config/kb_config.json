@@ -1,0 +1,9 @@
+{
+    "1": {
+        "kb_name": "1",
+        "vs_type": "Chroma",
+        "description": "",
+        "platform": "SiliconFlow",
+        "embedding_model": "netease-youdao/bce-embedding-base_v1"
+    }
+}

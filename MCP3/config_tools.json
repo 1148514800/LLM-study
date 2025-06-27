@@ -1,0 +1,30 @@
+{
+  "mcpServers": {
+    "time": {
+      "command": "uvx",
+      "args": [
+        "mcp-server-time",
+        "--local-timezone=America/New_York"
+      ]
+    },
+    "howtocook-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "howtocook-mcp"
+      ]
+    },
+    "getWeather": {
+      "command": "python",
+      "args": [
+        "server.py"
+      ]
+    }
+  },
+  "localTools": {
+    "add": "tools.add",
+    "mul": "tools.mul",
+    "compare": "tools.compare",
+    "count_letter_in_string": "tools.count_letter_in_string"
+  }
+}
